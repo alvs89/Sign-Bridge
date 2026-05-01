@@ -60,4 +60,4 @@ SignBridge is a collaborative effort and remains under active development. As a 
 * **Suggestions & Improvements**: We highly value community feedback. If you have recommendations for accessibility features, content corrections, or technical enhancements, please feel free to open an issue or submit a pull request. Your contributions are essential to making this tool more effective and inclusive.
 
 ---
-*SignBridge is built on the belief that communication becomes kinder when more people are included.*
+*Viva la vida! Even in silence, our hearts can create the most beautiful melodies together.*
